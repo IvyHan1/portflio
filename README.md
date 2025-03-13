@@ -1,10 +1,10 @@
-# portflio
+portflio
 
-### Personal portflio project
+Personal portflio project
 
-### Create a simple portflio project with HTML, CSS and Javascript.
+Create a simple portflio project with HTML, CSS and Javascript.
 
-### More personal projects will be added later.
+More personal projects will be added later.
 
 
 
