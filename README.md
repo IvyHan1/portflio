@@ -1,6 +1,4 @@
-portflio
-
-Personal portflio project
+# This is a Personal portflio project
 
 Create a simple portflio project with HTML, CSS and Javascript.
 
